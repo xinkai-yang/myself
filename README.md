@@ -1,4 +1,6 @@
-this is my first modify.
+local pull to branch
+first modify & commit
+second modify & commit
 - 👋 Hi, I’m @xinkai-yang
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
